@@ -37,3 +37,16 @@ Notificações do sistema
 
 🛠️ Tecnologias Utilizadas
 
+Frontend
+
+React.js (v18+)
+Vite (Build Tool)
+Context API (Gerenciamento de Estado)
+CSS-in-JS (Estilização)
+
+📋 Pré-requisitos
+Node.js (v16 ou superior)
+
+npm (v8 ou superior) ou yarn
+
+Git (para controle de versão)
